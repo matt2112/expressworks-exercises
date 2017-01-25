@@ -5,6 +5,8 @@
     the application, i.e., process.argv[2].
 */
 
+'use strict';
+
 const express = require('express');
 const app = express();
 

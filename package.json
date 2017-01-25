@@ -1,15 +1,19 @@
 {
   "name": "expressworks",
   "version": "1.0.0",
-  "description": "",
+  "description": "My answers for expressworks",
   "main": "01-hello-world.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matt Lewis",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "body-parser": "^1.16.0",
+    "crypto": "0.0.3",
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6",
+    "stylus": "^0.54.5"
   }
 }
